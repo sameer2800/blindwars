@@ -4,18 +4,18 @@ Anagrams..they seems very cool but quite confuses the non-programmers . As we ar
 given 2 strings, check whether they are anagrams or not .  
 Strings consists of only lower case english letters.
 
-###Sample input :
+###Sample input 1:
 mukesh  
 suresh
 
-### Sample output :
+### Sample output 1:
 NO
 
-### Sample input :
+### Sample input 2:
 kochi  
 okcih
 
-### Sampel ouptut  :
+### Sampel ouptut  2:
 YES
 
 ### Note :
