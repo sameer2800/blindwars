@@ -1,6 +1,6 @@
 {
   "name": "Blindwars",
   "tagline": "Aparoksha'16",
-  "body": "##Questions will be updated here. stay cool. :D\r\n\r\n",
+  "body": "\r\n###Problem 1 : Min and max\r\nGiven n numbers , find the maximum , minimum and difference of min and max , max and min.\r\nwith spaces between the output .\r\n\r\n###sample input :\r\n5   \r\n5 3 2 1 8\r\n\r\n###sample output :\r\n8 1 -7 7",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
