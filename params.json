@@ -1,6 +1,6 @@
 {
   "name": "Blindwars",
   "tagline": "Aparoksha'16",
-  "body": "\r\n###Problem 1 : Min and max\r\nGiven n numbers , find the maximum , minimum and difference of min and max , max and min.\r\nwith spaces between the output .\r\n\r\n###sample input :\r\n5   \r\n5 3 2 1 8\r\n\r\n###sample output :\r\n8 1 -7 7\r\n\r\n\r\n## problem 2 : \r\nFind the mean of given n numbers upto 3 decimals.\r\n\r\n###Sample input :\r\n5  \r\n1 2 3 4 6\r\n\r\n###Sample output :\r\n3.200\r\n\r\n",
+  "body": "\r\n###Problem 1 : Min and max\r\nGiven n numbers , find the maximum , minimum and difference of min and max , max and min.\r\nwith spaces between the output .\r\n\r\n###sample input :\r\n5   \r\n5 3 2 1 8\r\n\r\n###sample output :\r\n8 1 -7 7\r\n\r\n\r\n## problem 2 : \r\nFind the mean of given n numbers upto 3 decimals.\r\n\r\n###Sample input :\r\n5  \r\n1 2 3 4 6\r\n\r\n###Sample output :\r\n3.200\r\n\r\n## Problem 3 : Alphabet Count\r\nGiven n strings , count the occurrence of all the alphabets in n strings . print with space between them in a single line .\r\n\r\n### Sample input :\r\n3  \r\naa  \r\nabc  \r\ncdaz  \r\n\r\n### Sample output :\r\n4 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\r\n\r\n### Note : \r\nAll given strings are in lower case.\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
