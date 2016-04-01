@@ -1,0 +1,89 @@
+###Problem 1 : Min and max
+Given n numbers , find the maximum , minimum and difference of min and max , max and min.
+with spaces between the output .
+
+###sample input :
+5   
+5 3 2 1 8
+
+###sample output :
+8 1 -7 7
+
+
+## problem 2 : 
+Find the mean of given n numbers upto 3 decimals.
+
+###Sample input :
+5  
+1 2 3 4 6
+
+###Sample output :
+3.200
+
+## Problem 3 : Alphabet Count
+Given n strings , count the occurrence of all the alphabets in n strings . print with space between them in a single line .
+
+### Sample input :
+3  
+aa  
+abc  
+cdaz  
+
+### Sample output :
+4 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+
+### Note : 
+All given strings are in lower case.
+
+##Problem 4 : Simple Prime 
+We at IIIT- A are very good at dealing with prime numbers . lets have an interesting question .  
+Given a matrix of size n * m , count the occurences of first 4 prime numbers. 
+
+###Sample input :
+3 4  
+3 4 5 2   
+8 7 6 11   
+13 1 2 3    
+
+###Sample Output :
+6 
+
+
+## Problem 5 : Anagrams 
+
+Anagrams..they seems very cool but quite confuses the non-programmers . As we are programmers , we know that anagrams are simple to deal.
+given 2 strings, check whether they are anagrams or not .  
+Strings consists of only lower case english letters.
+
+###Sample input :
+mukesh  
+suresh
+
+### Sample output :
+NO
+
+### Sample input :
+kochi  
+okcih
+
+### Sampel ouptut  :
+YES
+
+### Note :
+Anagrams are those strings , the result of rearranging the letters of one string produces another string. 
+
+
+## Problem 6 : Egyptian Pyramid
+this program is dedicated to hologram in the ground. so we know it is very difficult to print a hologram here .  so , why don't you print a pyramid instead . 
+given n ,  print pyramid of 'o's  in n lines .
+
+
+###Sample input :
+5
+
+###Sample Output :
+
+![pyramid](images/pyramid2.png) 
+
+image file location :
+[image is here](https://github.com/sameer2800/blindwars/blob/gh-pages/images/pyramid2.png )
