@@ -2,10 +2,10 @@
 Given n strings , count the occurrence of all the alphabets in n strings . print with space between them in a single line .
 
 ### Sample input :
-####3
-####aa
-####abc
-####cdaz
+3  
+aa  
+abc  
+cdaz  
 
 ### Sample output :
 4 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
