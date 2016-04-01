@@ -1,9 +1,10 @@
+###Problem 1 
 Given n numbers , find the maximum , minimum and difference of min and max , max and min.
 with spaces between the output .
 
-sample input :
-5
-5 3 2 1 8
+###sample input :
+####5
+####5 3 2 1 8
 
-sample output :
+###sample output :
 8 5 -3 3
