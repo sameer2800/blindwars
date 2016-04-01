@@ -1,0 +1,28 @@
+## Problem 5 : Anagrams 
+
+Anagrams..they seems very cool but quite confuses the non-programmers . As we are programmers , we know that anagrams are simple to deal.
+given 2 strings, check whether they are anagrams or not .  
+Strings consists of only lower case english letters.
+
+###Sample input :
+mukesh  
+suresh
+
+### Sample output :
+NO
+
+### Sample input :
+kochi  
+okcih
+
+### Sampel ouptut  :
+YES
+
+### Note :
+Anagrams are those strings , the result of rearranging the letters of one string produces another string. 
+ 
+
+
+
+
+
