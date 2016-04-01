@@ -1,15 +1,14 @@
 ## Problem 6 : Egyptian Pyramid
 this program is dedicated to hologram in the ground. so we know it is very difficult to print a hologram here .  so , why don't you print
 a pyramid instead . 
-given n ,  print pyramid of stars in n lines .
+given n ,  print pyramid of 'o's  in n lines .
 
 ###Sample input :
 5
 
 ###Sample Output :
-    *   
-   ***  
-  *****  
- *******  
-********* 
-
+    o  
+   ooo       
+  ooooo    
+ ooooooo     
+ooooooooo
