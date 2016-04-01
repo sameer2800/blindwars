@@ -1,9 +1,9 @@
-### problem 2 : 
+## problem 2 : 
 Find the mean of given n numbers upto 3 decimals.
 
-##Sample input :
-5
-1 2 3 4 6
+###Sample input :
+####5
+####1 2 3 4 6
 
-##Sample output :
+###Sample output :
 3.200
