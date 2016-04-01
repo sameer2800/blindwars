@@ -3,10 +3,10 @@ We at IIIT- A are very good at dealing with prime numbers . lets have an interes
 Given a matrix of size n * m , count the occurences of first 4 prime numbers. 
 
 ###Sample input :
-3 4
-3 4 5 2
-8 7 6 11
-13 1 2 3
+3 4  
+3 4 5 2   
+8 7 6 11   
+13 1 2 3    
 
 ###Sample Output :
 6 
