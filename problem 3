@@ -1,4 +1,5 @@
-## Given n strings , count the occurrence of all the alphabets in n strings . print with space between them in a single line .
+## Problem 3 : Alphabet Count
+Given n strings , count the occurrence of all the alphabets in n strings . print with space between them in a single line .
 
 ### Sample input :
 3
@@ -9,4 +10,5 @@ cdaz
 ### Sample output :
 4 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
 
-### Note : All given strings are in lower case.
+### Note : 
+All given strings are in lower case.
